@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="787b5270-e87c-457c-bc1a-f7a45907b482" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lbbIZHBtyYJk8vrTVHgPcPJLgC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../star-db" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pet-Projects\todo\src\components\todo-list-item" />
+      <recent name="D:\Pet-Projects\todo\src\components\todo-list" />
+      <recent name="D:\Pet-Projects\todo\src\components\search-panel" />
+      <recent name="D:\Pet-Projects\todo\src\components\item-status-filter" />
+      <recent name="D:\Pet-Projects\todo\src\components\app-header" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="787b5270-e87c-457c-bc1a-f7a45907b482" name="Default Changelist" comment="" />
+      <created>1607868668827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607868668827</updated>
+      <workItem from="1607868674304" duration="16266000" />
+      <workItem from="1607946309456" duration="6554000" />
+      <workItem from="1608040046378" duration="8217000" />
+      <workItem from="1608239340047" duration="5662000" />
+      <workItem from="1608285485470" duration="11840000" />
+      <workItem from="1608380644075" duration="1461000" />
+      <workItem from="1608382302214" duration="1350000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
